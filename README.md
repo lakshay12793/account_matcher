@@ -8,7 +8,7 @@ This is a Spring Boot web service that identifies and links customer identities 
 
 POST /api/identify
 
-##Description: Identifies a customer and links related contacts.
+#### Description: Identifies a customer and links related contacts.
 
 Request Body:
 
